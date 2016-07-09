@@ -1,0 +1,8 @@
+development:
+
+  adapter: mysql2
+  encoding: utf8
+  pool: 5
+  database: ad_db
+  username: root
+  password: root
